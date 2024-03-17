@@ -1,0 +1,6 @@
+---
+# ansible/requirements.yaml
+#
+
+collections:
+  - name: "community.general"
